@@ -1,0 +1,57 @@
+.b3 {
+  width: 100%;
+  height: 119.719px;
+  margin-left: 11px;
+  margin-right: 11px;
+  margin-top: 17px;
+  margin-bottom: 17px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  display: flex;
+  justify-content: space-evenly;
+}
+[class^="icir"] {
+  width: 52px;
+  height: 52px;
+  border-radius: 50%;
+}
+[class^="pcir"] {
+  width: 50px;
+  height: 47.719px;
+  padding-left: 16px;
+  padding-right: 16px;
+  font-size: 12px;
+  text-align: center !important;
+  margin-top: 4px;
+  line-height: 2.17;
+  box-sizing: content-box;
+}
+[class^="cir"] {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.b31 {
+  display: flex;
+  align-items: center;
+}
+.b4789789 {
+  width: 100%;
+  height: 294.031px;
+  background-color: transparent;
+}
+.morec {
+  width: 52px;
+  height: 52px;
+  background-color: #f0f0f1;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  .svg__more {
+    width: 32px;
+    height: 32px;
+    fill: #a1a3a8;
+  }
+}

@@ -1,0 +1,17 @@
+.h1 {
+  width: 100vw;
+  height: 60px;
+  object-fit: cover;
+  .tabligh1 {
+    width: 100vw;
+    height: 60px;
+    object-fit: cover;
+  }
+}
+.h555{
+  position: sticky !important;
+  top: 0 !important;
+  z-index: 99999 !important;
+  width: 100vw;
+  border-bottom: 1px solid #d3d3d3;
+}

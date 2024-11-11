@@ -1,0 +1,24 @@
+.f3 {
+  width: 100%;
+  display: flex;
+  margin: 32px 0;
+  .iat {
+    margin: 12px 0;
+    width: 257.656px;
+    height: 79.859px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    img {
+      width: 56px;
+      height: 56px;
+    }
+    .sif3{
+        font-size: 11px;
+        font-weight: 400;
+        line-height: 2.17;
+        color: #3f4064;
+    }
+  }
+}

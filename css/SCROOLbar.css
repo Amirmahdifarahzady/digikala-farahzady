@@ -1,0 +1,17 @@
+* {
+  ::-webkit-scrollbar {
+    content: "";
+    width: 8px;
+    height: 20px; /* عرض اسکرول بار */
+    &:hover {
+      background-color: red;
+    }
+  }
+  ::-webkit-scrollbar-track {
+    background: linear-gradient(#acacac63, #fffcd4);
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 0;
+  }
+}

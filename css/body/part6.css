@@ -1,0 +1,28 @@
+.b6{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+    position: unset;
+    .b61{
+        width: fit-content;
+        height: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        margin: 0 11px;
+        .pict564{
+            width: calc(25% - 12px);
+            margin-right: 16px;
+            border-radius: 16px;
+            object-fit: cover;
+            cursor: pointer;
+        }
+        .pict5641{
+            width: calc(25% - 12px);
+            border-radius: 16px;
+            object-fit: cover;
+            cursor: pointer;
+        }
+    }
+}

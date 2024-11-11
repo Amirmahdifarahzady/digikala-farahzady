@@ -1,0 +1,112 @@
+.b17 {
+    width: 100%;
+    height: 404.094px;
+    margin-top: calc(15px);
+    padding-left: 21px;
+    position: relative;
+    .b171 {
+      width: 100%;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      flex-direction: column;
+      margin: 0 11px;
+      position: relative;
+      border: 1px solid #e0e0e2;
+      padding: 16px 8px;
+      border-radius: 16px;
+      .heib {
+        width: 100%;
+        height: 44.094px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        .con98694 {
+          width: fit-content;
+          height: 100%;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          .lkjuikjh {
+            width: 24px;
+            height: 24px;
+            fill: #f9bc00;
+            margin-left: 8px;
+          }
+          .tte {
+            font-size: 21px;
+            font-weight: 500;
+            line-height: 2.1;
+            color: #0c0c0c;
+          }
+        }
+        .ttel {
+          height: fit-content;
+          color: #19bfd3;
+          font-size: 14px;
+          font-weight: 700;
+          line-height: 2.15;
+          cursor: pointer;
+          position: absolute;
+          padding-left: 16px;
+          left: 0;
+        }
+      }
+      .swiper {
+        margin-top: 28px;
+        .swiper-wrapper {
+          display: flex;
+          justify-content: center;
+          align-items: flex-start;
+          .swiper-slide {
+            width: 314.5px !important;
+            height: auto;
+            margin-left: 20px;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            flex-direction: column;
+            flex-shrink: 0;
+            .pib {
+              width: 100%;
+              height: 86px;
+              margin-top: 20px;
+              display: flex;
+              align-items: center;
+              .imginbox {
+                width: 86px;
+                height: 86px;
+                margin-left: 12px;
+                border-radius: 8px;
+              }
+              .sninbox {
+                margin-left: 12px;
+                font-size: 26px;
+                font-weight: 800;
+                line-height: 2.1;
+                color: #19bfd3;
+              }
+              .textinbox {
+                height: 115%;
+                font-size: 12px;
+                display: flex;
+                text-align: right;
+                align-items: center;
+                border-bottom: 1px solid #f0f0f0;
+                line-height: 2.17;
+                color: #3f4064;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  .pib1 {
+    margin-top: 0 !important;
+  }
+  .clt {
+    display: flex;
+    flex-direction: column;
+  }
+  

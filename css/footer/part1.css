@@ -1,0 +1,63 @@
+.f1 {
+  width: 100%;
+  margin-top: 15px;
+  position: relative;
+  .f11 {
+    width: 100%;
+    height: 100%;
+    margin: 0 11px;
+    width: 100%;
+    height: 40px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    position: relative;
+    .digilogo5 {
+      transition: 300ms;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      .digilogo {
+        width: 195px;
+        height: 30px;
+        margin-left: 20px;
+        transition: 300ms;
+      }
+    }
+    .bgu {
+      border: 1px solid var(--color-neutral-200);
+      padding: 8px 16px;
+      width: 138.2px;
+      height: 40px;
+      position: absolute;
+      left: 0;
+      border-radius: 8px;
+      background-color: white;
+      cursor: pointer;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      .c {
+        width: fit-content;
+        height: fit-content;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        .tibu {
+          width: fit-content;
+          color: #a1a3a8;
+          margin-left: 8px;
+          font-size: 12px;
+          font-weight: 700;
+          line-height: 2.17;
+          transition: top 0.3s ease-in-out;
+        }
+        .sibu {
+          width: 24px;
+          height: 24px;
+          fill: #a1a3a8;
+        }
+      }
+    }
+  }
+}

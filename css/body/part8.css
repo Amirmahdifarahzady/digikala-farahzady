@@ -1,0 +1,57 @@
+.b8 {
+  width: 100%;
+  height: fit-content;
+  padding-bottom: 40px;
+  .b81 {
+    width: 100%;
+    height: fit-content;
+    margin-right: 11px;
+    display: flex;
+    justify-content: center;
+    overflow: visible;
+    .con258 {
+      width: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 10px;
+      .ciri {
+        width: 100px;
+        height: 100px;
+      }
+      .cirp {
+        width: 107.828px;
+        height: 52.063px;
+        font-size: 12px;
+        font-weight: 700;
+        line-height: 2.17;
+        text-align: center;
+        margin-top: 8px;
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+      }
+      .cird {
+        cursor: pointer;
+        box-sizing: content-box;
+        width: 107.828px;
+        height: 160px;
+        padding: 0 16px;
+      }
+      .con258 :nth-last-of-type(1) {
+        cursor: pointer;
+        box-sizing: content-box;
+        width: 107.828px;
+        height: 160px;
+        padding-right: 0;
+      }
+    }
+  }
+}
+.cird2 {
+  padding-left: 45px !important;
+}
+.cird3 {
+  padding-right: 0 !important;
+}

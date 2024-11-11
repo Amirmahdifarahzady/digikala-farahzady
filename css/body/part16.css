@@ -1,0 +1,101 @@
+.b16 {
+  width: 100%;
+  height: fit-content;
+  margin-top: 15px;
+  padding-left: 21px;
+  .b161 {
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 0 11px;
+    border: 1px solid #e0e0e2;
+    border-radius: 16px;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-bottom: 3px;
+    .contib {
+      width: 100%;
+      height: 44.094px;
+      padding: 16px 0;
+      margin-bottom: 8px;
+      box-sizing: content-box;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      .reds {
+        width: 24px;
+        height: 24px;
+        fill: #ef4056;
+      }
+      .tib {
+        font-size: 21px;
+        font-weight: 500;
+        line-height: 2.1;
+        margin-right: 8px;
+      }
+    }
+    .contia {
+      width: 100%;
+      height: 726.875px;
+      background-color: #f0f0f1;
+      display: flex;
+      justify-content: center;
+      align-items: flex-start;
+      flex-wrap: wrap;
+      [class^="contia"] {
+        width: 100%;
+        height: fit-content;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        .bb78 {
+          width: 218.33px;
+          height: 242.63px;
+          background-color: white;
+          margin-bottom: 1px;
+          margin-left: 1px;
+          padding: 8px 12px;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          flex-direction: column;
+          .imgs1 {
+            object-fit: contain;
+            width: 144px !important;
+            height: 132px !important;
+            margin-bottom: 16px;
+            border-radius: 16px !important;
+          }
+          .text-neutral {
+            padding-top: 8px;
+          }
+          .fe {
+            font-size: 16px;
+            color: #3f4064;
+          }
+        }
+      }
+    }
+  }
+}
+.feat {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  .fe {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+  }
+}
+.wih1 {
+  color: white;
+}
+.bc78{
+  border-left: 1px solid white;
+  margin-left: -1px !important;
+}

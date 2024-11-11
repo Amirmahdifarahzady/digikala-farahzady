@@ -1,0 +1,163 @@
+.h2 {
+  width: 100vw;
+  height: 68px;
+  background-color: white;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 16px;
+  padding-right: 16px;
+  perspective: 800px;
+  .h91873 {
+    width: 902.02px;
+    height: 44px;
+    perspective: 800px;
+    .box {
+      width: 600px;
+      height: 44px;
+      background-color: #f0f0f1;
+      border-radius: var(--border-radius);
+      display: flex;
+      justify-content: flex-start;
+      align-items: center;
+      transition: 300ms;
+      padding: 0 16px;
+      font-size: 12px;
+      white-space: nowrap;
+      text-overflow: ellipsis;
+      overflow: hidden;
+      font-weight: 400;
+      line-height: 2.17;
+      .svg__searchicon {
+        width: 24px;
+        height: 24px;
+        fill: #a1a3a8;
+      }
+      .input {
+        width: 100%;
+        height: 100%;
+        background-color: transparent !important;
+        border: 1px solid transparent !important;
+        border-radius: 12px;
+        font-family: var(--font-face);
+        padding: 0 16px;
+        font-size: 12px;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        font-weight: 400;
+        line-height: 2.17;
+      }
+    }
+  }
+
+  .h6583 {
+    width: 134.812px;
+    height: 40px;
+    border: 1px solid #e0e0e2;
+    display: flex;
+    justify-content: flex-end;
+    border-radius: 8px;
+    transition: 300ms;
+    .box2 {
+      width: 134.812px;
+      height: 40px;
+      border: 1px solid transparent;
+      border-radius: 8px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      cursor: pointer;
+    }
+  }
+  .digilogo5 {
+    perspective: 800px;
+    transition: 300ms;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    .digilogo {
+      width: 195px;
+      height: 30px;
+      margin-left: 20px;
+      transition: 300ms;
+    }
+  }
+}
+.hr {
+  width: 1px;
+  height: 24px;
+  background-color: #e0e0e2;
+  margin: 12px;
+}
+.tra {
+  width: 40px;
+  height: 40px;
+  background-color: transparent;
+  padding: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  .blue {
+    width: 24px;
+    height: 24px;
+    background-color: transparent;
+    .svg__buy {
+      width: 24px;
+      height: 24px;
+      fill: #424750;
+    }
+  }
+}
+.a1212 {
+  width: 134.812px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  cursor: pointer;
+  .but {
+    width: 100.81px;
+    height: 40px;
+    border-radius: var(--border-radius);
+    font-family: var(--font-face);
+    border: 0;
+    background-color: transparent;
+    color: #0c0c0c;
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: 700;
+    cursor: pointer;
+  }
+}
+.a1919 {
+  width: 24px;
+  height: 24px;
+  background-color: transparent;
+  margin-left: 8px;
+  .svg__sign {
+    width: 24px;
+    height: 24px;
+    fill: #424750;
+  }
+}
+.h7 {
+  width: 100.81px;
+  height: 26.03px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+}
+.h6 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: row-resize;
+}
+.GHFORM {
+  width: 100%;
+  height: 100%;
+}

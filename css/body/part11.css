@@ -1,0 +1,24 @@
+.b11{
+    width: 100%;
+    margin-top: 15px;
+    .b111{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        .picyut{
+            width: 660px;
+            height: 264px;
+            object-fit: cover;
+            border-radius: 16px;
+            margin: auto;
+        }
+        .picyut2{
+            width: 660px;
+            height: 264px;
+            object-fit: cover;
+            border-radius: 16px;
+            margin: auto;
+        }
+    }
+}

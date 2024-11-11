@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: var(--font-face);
+  outline: none;
+  text-decoration: none;
+  outline: none;
+}
+
+@font-face {
+  font-family: iranyekan;
+  src: url(../font/iranyekan/IRANYekanWeb.eot);
+  src: url(../font/iranyekan/IRANYekanWeb.ttf);
+  src: url(../font/iranyekan/IRANYekanWeb.woff);
+  src: url(../font/iranyekan/IRANYekanWeb.woff2);
+}
+
+:root {
+  --font-face: iranyekan;
+  --border-radius: 8px;
+  --font-size: 1.2rem;
+  --color-neutral-200: #e0e0e2;
+}
+body {
+  font-family: var(--font-face), sans-serif;
+  font-size: var(--font-size);
+  overflow-x: hidden;
+}

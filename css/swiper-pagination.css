@@ -1,0 +1,29 @@
+.swiper-pagination-bullet {
+  width: 4px;
+  height: 4px;
+  opacity: 0.3;
+  transition: 0.2s ease-in-out;
+  width: 4px;
+  background-color: #0c0c0c;
+}
+.swiper-pagination-bullet-active {
+  width: 16px;
+  height: 6px;
+  background-color: #fff;
+  border-radius: 9999px;
+  opacity: 1;
+}
+.swiper-pagination {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.swiper-button-disabled {
+  background-color: transparent;
+  border: none;
+  &::after{
+    content: "" !important;
+    fill: transparent !important;
+    color: transparent;
+  }
+}

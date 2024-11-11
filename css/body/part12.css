@@ -1,0 +1,87 @@
+.b12 {
+  width: 100%;
+  height: 418.234px;
+  margin-top: 15px;
+  padding-left: 21px;
+  .b121 {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 11px;
+    border: 1px solid #e0e0e2;
+    border-radius: 16px;
+    .b1214 {
+      border-left: none !important;
+    }
+    [class^="b121"] {
+      width: 25%;
+      height: 100%;
+      padding: 8px 20px;
+      display: flex;
+      flex-direction: column;
+      border-left: 1px solid #e0e0e2;
+      .h5b112 {
+        font-size: 16px;
+        font-weight: 700;
+        line-height: 2.1;
+        color: #181936;
+      }
+      .sb121 {
+        font-size: 11px;
+        font-weight: 400;
+        line-height: 2.17;
+        color: #81858b;
+      }
+      .imgb121 {
+        width: 145.88px;
+        height: 145.88px;
+        object-fit: contain;
+        background-color: #fff;
+        padding: 8px;
+      }
+      .sib3 {
+        position: relative;
+        bottom: 8px;
+        margin-left: 1px;
+      }
+      .sib4 {
+        position: relative;
+        bottom: 8px;
+      }
+      .sib1 {
+        margin-left: 1px;
+      }
+      .sib1 {
+      }
+    }
+  }
+}
+.a4dpic {
+  width: 292.75px;
+  height: 292.75px;
+  background-color: #f0f0f1;
+  position: relative;
+}
+.contm {
+  width: 100%;
+  height: fit-content;
+  margin-top: 4px;
+  margin-bottom: 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  .bluete {
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 2.17;
+    cursor: pointer;
+    color: #19bfd3;
+  }
+  .bsvg {
+    width: 18px;
+    height: 18px;
+    fill: #19bfd3;
+  }
+}

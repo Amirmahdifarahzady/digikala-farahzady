@@ -1,0 +1,53 @@
+.f5 {
+  width: 100%;
+  height: 76px;
+  color: white;
+  padding: 8px 20px;
+  border-radius: 8px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 28px;
+  background-color: #3c4b6d;
+  .f551 {
+    display: flex;
+    .ifd {
+      width: 44px;
+      height: 44px;
+    }
+    .tai {
+      font-size: 21px;
+      font-weight: 500;
+      line-height: 2.1;
+      margin-right: 16px;
+      color: white;
+    }
+  }
+  .f552{
+    display: flex;
+    align-items: center;
+    .wbif{
+        object-fit: contain;
+        border-radius: 4px;
+        width: 142px;
+        height: 44px;
+        cursor: pointer;
+        margin: 8px;
+    }
+    .code54256{
+        width: 44px;
+        height: 44px;
+        margin-right: 16px;
+        background-color: white;
+        border-radius: 4px;
+        cursor: pointer;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        .iic{
+            width: 42px;
+            height: 100%;
+        }
+    }
+  }
+}

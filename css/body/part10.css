@@ -1,0 +1,62 @@
+.b10 {
+  width: 100%;
+  height: 224.094px;
+  padding-left: 21px;
+  .b101 {
+    width: 100%;
+    margin: 0 11px;
+    height: 224.094px;
+    margin-top: 15px;
+    border-radius: 16px;
+    border: 1px solid #e0e0e2;
+    .erthd {
+      font-size: 21px;
+      font-weight: 500;
+      line-height: 2.1;
+      color: #0c0c0c;
+    }
+    .lkjuikjh {
+      width: 24px;
+      height: 24px;
+      fill: #f9bc00;
+    }
+    .swiper {
+      height: 118px !important;
+      .swiper-wrapper {
+        height: 118px !important;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        .swiper-slide {
+          width: 143px !important;
+          height: 118px !important;
+          padding-top: 4px !important;
+          padding-bottom: 4px !important;
+          padding-left: 16px !important;
+          padding-right: 16px !important;
+          overflow: hidden !important;
+          display: flex !important;
+          justify-content: center !important;
+          align-items: center !important;
+          border-left: 1px solid #e0e0e2;
+          .nami {
+            width: 110px !important;
+            height: 110px !important;
+            object-fit: contain;
+          }
+        }
+      }
+    }
+  }
+}
+.trdr {
+  margin-top: 20px;
+  margin-bottom: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+}
+.nami2 {
+  border-left: unset !important;
+}
